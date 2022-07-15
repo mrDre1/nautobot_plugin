@@ -1,2 +1,1 @@
 nautobot-device-onboarding
-nautobot-plugin-splunk
